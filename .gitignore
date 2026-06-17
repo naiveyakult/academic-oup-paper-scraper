@@ -1,0 +1,15 @@
+__pycache__/
+*.py[cod]
+*.log
+*.err
+*.pid
+.env
+.venv/
+venv/
+chrome-cdp-profiles/
+.chrome*/
+*.pdf
+*_metadata.json
+oup_crawl_manifest.json
+oup_crawl_summary.json
+
