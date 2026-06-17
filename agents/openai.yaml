@@ -1,0 +1,4 @@
+interface:
+  display_name: "Academic OUP Paper Scraper"
+  short_description: "Scrape Oxford Academic OA/Free PDFs"
+  default_prompt: "Use $academic-oup-paper-scraper to crawl Oxford Academic search-result PDFs and metadata."
